@@ -19,7 +19,6 @@ public class EmailApp {
         // Display the email information
         System.out.println(em1.showInfo());
 
-        // Close the scanner when you're done using it to free up resources
         scanner.close();
     }
 }
